@@ -34,37 +34,180 @@
       "organizer": "Carey Wales"
     },
     {
-      "id": 9999000,
-      "category": "education",
-      "title": "Web Development Workshop",
-      "description": "Learn modern web development with Vue.js and TypeScript.",
-      "location": "Tech Center",
-      "date": "December 15, 2022",
-      "time": "14:00",
-      "petsAllowed": false,
-      "organizer": "Code Academy"
-    },
-    {
       "id": 1234567,
-      "category": "health",
-      "title": "Free Health Checkup",
-      "description": "Community health screening for all ages.",
-      "location": "Health Center",
-      "date": "November 5, 2022",
-      "time": "09:00",
+      "category": "nature",
+      "title": "Bird Watching Tour",
+      "description": "Explore the local bird population in their natural habitat.",
+      "location": "Forest Reserve",
+      "date": "April 10, 2022",
+      "time": "08:00",
       "petsAllowed": false,
-      "organizer": "Dr. Smith Medical Group"
+      "organizer": "Alex Thompson"
     },
     {
       "id": 7654321,
-      "category": "environment",
-      "title": "Tree Planting Day",
-      "description": "Join us in planting 100 trees to help the environment.",
-      "location": "Central Park",
+      "category": "food",
+      "title": "Cooking Class for Beginners",
+      "description": "Learn basic cooking skills in this fun interactive class.",
+      "location": "Community Center",
+      "date": "May 15, 2022",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Sarah Johnson"
+    },
+    {
+      "id": 9876543,
+      "category": "social",
+      "title": "Neighborhood Block Party",
+      "description": "Join your neighbors for food, games, and fun!",
+      "location": "Main Street",
+      "date": "June 5, 2022",
+      "time": "16:00",
+      "petsAllowed": true,
+      "organizer": "Community Board"
+    },
+    {
+      "id": 1122334,
+      "category": "nature",
+      "title": "Hiking Adventure",
+      "description": "Explore scenic trails and enjoy nature.",
+      "location": "Mountain Trail",
+      "date": "August 8, 2022",
+      "time": "07:00",
+      "petsAllowed": true,
+      "organizer": "Mike Wilson"
+    },
+    {
+      "id": 5566778,
+      "category": "technology",
+      "title": "Coding Workshop",
+      "description": "Learn programming basics in this hands-on workshop.",
+      "location": "Tech Hub",
+      "date": "September 12, 2022",
+      "time": "13:00",
+      "petsAllowed": false,
+      "organizer": "Tech Community"
+    },
+    {
+      "id": 2233445,
+      "category": "social",
+      "title": "Art Exhibition Opening",
+      "description": "View amazing local art and meet the artists.",
+      "location": "City Art Gallery",
       "date": "October 20, 2022",
+      "time": "18:00",
+      "petsAllowed": false,
+      "organizer": "Art Society"
+    },
+    {
+      "id": 3344556,
+      "category": "nature",
+      "title": "Tree Planting Day",
+      "description": "Help us plant trees in the community park.",
+      "location": "Central Park",
+      "date": "November 5, 2022",
+      "time": "09:00",
+      "petsAllowed": true,
+      "organizer": "Green Earth Initiative"
+    },
+    {
+      "id": 4455667,
+      "category": "food",
+      "title": "Farmers Market",
+      "description": "Fresh local produce and handmade goods.",
+      "location": "Town Square",
+      "date": "December 3, 2022",
       "time": "08:00",
       "petsAllowed": true,
-      "organizer": "Green Earth Foundation"
+      "organizer": "Local Farmers Association"
+    },
+    {
+      "id": 5566779,
+      "category": "sustainability",
+      "title": "E-Waste Recycling Drive",
+      "description": "Properly dispose of your electronic waste.",
+      "location": "Community Center",
+      "date": "January 15, 2023",
+      "time": "10:00",
+      "petsAllowed": false,
+      "organizer": "Eco Warriors"
+    },
+    {
+      "id": 6677889,
+      "category": "technology",
+      "title": "Startup Networking Event",
+      "description": "Connect with entrepreneurs and investors.",
+      "location": "Innovation Hub",
+      "date": "February 10, 2023",
+      "time": "19:00",
+      "petsAllowed": false,
+      "organizer": "Startup Network"
+    },
+    {
+      "id": 7788990,
+      "category": "animal welfare",
+      "title": "Dog Walking Social",
+      "description": "Meet other dog owners and socialize your pets.",
+      "location": "Dog Park",
+      "date": "March 18, 2023",
+      "time": "15:00",
+      "petsAllowed": true,
+      "organizer": "Canine Community"
+    },
+    {
+      "id": 8899001,
+      "category": "social",
+      "title": "Board Game Night",
+      "description": "Join us for an evening of fun board games.",
+      "location": "Game Cafe",
+      "date": "April 25, 2023",
+      "time": "20:00",
+      "petsAllowed": false,
+      "organizer": "Game Enthusiasts Club"
+    },
+    {
+      "id": 9900112,
+      "category": "food",
+      "title": "Wine Tasting Evening",
+      "description": "Sample wines from local vineyards.",
+      "location": "Vineyard Estate",
+      "date": "May 30, 2023",
+      "time": "18:30",
+      "petsAllowed": false,
+      "organizer": "Wine Society"
+    },
+    {
+      "id": 1011123,
+      "category": "nature",
+      "title": "Wildlife Photography Walk",
+      "description": "Capture the beauty of local wildlife.",
+      "location": "Nature Reserve",
+      "date": "June 12, 2023",
+      "time": "06:00",
+      "petsAllowed": false,
+      "organizer": "Photography Club"
+    },
+    {
+      "id": 1213145,
+      "category": "sustainability",
+      "title": "Solar Panel Information Session",
+      "description": "Learn about renewable energy for your home.",
+      "location": "Energy Center",
+      "date": "July 8, 2023",
+      "time": "14:00",
+      "petsAllowed": false,
+      "organizer": "Solar Solutions Inc."
+    },
+    {
+      "id": 1314156,
+      "category": "technology",
+      "title": "AI and Machine Learning Seminar",
+      "description": "Understanding the future of AI technology.",
+      "location": "University Hall",
+      "date": "August 22, 2023",
+      "time": "16:00",
+      "petsAllowed": false,
+      "organizer": "Tech Education Group"
     }
   ]
 }

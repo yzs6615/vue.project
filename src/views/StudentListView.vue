@@ -21,16 +21,13 @@ onMounted(() => {
   <div>
     <h1>Student Information</h1>
     
-    <div class="students">
+    <div class="flex flex-col items-center">
       <StudentCard v-for="student in students" :key="student.id" :student="student" />
     </div>
   </div>
 </template>
 
 <style scoped>
-.students {
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-}
+/* All styles have been replaced with Tailwind CSS classes */
 </style>
+
